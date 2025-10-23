@@ -1,0 +1,16 @@
+# системные файлы
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# данные
+data/
+*.csv
+*.xlsx
+
+# чувствительная информация
+.env
+
+# временные файлы
+*.log
+*.tmp
